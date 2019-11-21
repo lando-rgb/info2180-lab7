@@ -1,0 +1,55 @@
+/* Add your own styles */
+background{
+    background-color: lightgray;
+}
+
+.container{
+    background-color: cadetblue;
+    padding: 5%;
+}
+    
+h1{
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
+
+#lookup{
+    background-color: springgreen;
+    color: honeydew;
+    border-radius: 6px;
+}
+
+#lookupcities{
+    background-color: darkred;
+    color: honeydew;
+    border-radius: 6px;
+}
+#controls{
+    width: 100%;
+    text-align:center;
+    padding-top: 5%;
+}
+
+#controls label{
+    color: gray;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-family: inherit;
+}
+
+th, td {
+  text-align: left;
+  padding: 2%;
+}
+
+tr:nth-child(even){background-color:lemonchiffon;
+}
+
+th {
+  background-color: cadetblue;
+  color: white;
+}
